@@ -18,7 +18,7 @@ int main()
 	}
 	if(units<=200)
 	{
-		charge=units=0.8;
+		charge=units*0.8;
 	}
 	else if(units<=300)
 	{
