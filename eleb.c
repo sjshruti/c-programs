@@ -38,7 +38,7 @@ int main()
 	printf("electricity bill\n");
 	printf("name:%s\n",name);
 	printf("units:%d\n",units);
-	printf("amount:%2f\n",total);
+	printf("amount:%f\n",total);
 
 	return 0;
 }
