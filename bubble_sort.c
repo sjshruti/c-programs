@@ -4,10 +4,10 @@ int main()
   int i,j,n,temp,a[20];
   printf("enter the size of array:");
   scanf("%d",&n);
-  
+  printf("enter the element:");
   for(i=0;i<=n-1;i++)
     {
-    printf("enter the element:");
+    
     scanf("%d",&a[i]);
       }
       for(i=0;i<n-1;i++)
